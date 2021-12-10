@@ -1,0 +1,61 @@
+
+A:\>
+A:\>
+A:\>type jul10
+
+        La plej longa benko en la mondo                 10 julio, 91
+
+ En la okcidenta parto de la duoninsulo Noto, Is^ikau~a trovig^as la plej longa
+
+benko en la mondo. Antau~ kelkaj jaroj en majo mi hazarde trovis g^in. Tiam mi
+
+veturis per motorciklo sur la vojo lau~ la maro Japanio. Kaj mi trovis
+
+reklamilon, kiu diras "Sidig^u sur la benko". G^i estis nova. Oni faris g^in por
+
+aperigi la nomon de la urbeto en la libro Gines. Antau~ g^i la benko en la
+
+parko de la urbo Obihiro, Hokkaido estis la plej longa. Mi ankau~ sidig^is sur
+
+g^i antau~e.
+
+
+A:\>
+A:\>
+A:\>espero jul10
+*** espero *** 15 julio, 91 ***
+File Name : jul10
+Noto
+reklamilon
+Gines
+
+                97 vortoj
+
+*** espero *** fino ***
+
+A:\>
+A:\>
+A:\>sensuper < jul10
+*** sensuper *** 15 julio, 91 ***
+
+
+        La plej longa benko en la mondo                 10 julio, 91
+
+ En la okcidenta parto de la duoninsulo Noto, Isikaua trovigas la plej longa
+
+benko en la mondo. Antau kelkaj jaroj en majo mi hazarde trovis gin. Tiam mi
+
+veturis per motorciklo sur la vojo lau la maro Japanio. Kaj mi trovis
+
+reklamilon, kiu diras "Sidigu sur la benko". Gi estis nova. Oni faris gin por
+
+aperigi la nomon de la urbeto en la libro Gines. Antau gi la benko en la
+
+parko de la urbo Obihiro, Hokkaido estis la plej longa. Mi ankau sidigis sur
+
+gi antaue.
+
+*** sensuper *** fino ***
+
+
+A:\>
