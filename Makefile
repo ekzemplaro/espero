@@ -1,4 +1,4 @@
-espero : espero.o
-	c++ -o espero espero.o
+espero : espero.cpp
+	clang++ -o espero espero.cpp
 clean:
-	rm -f espero espero.o
+	rm -f espero
